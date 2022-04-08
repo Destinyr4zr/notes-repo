@@ -7,8 +7,12 @@
         "id": "3fd7d8b12ac65e80",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "PHP/Tricks.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PHP/Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +89,15 @@
   },
   "active": "3fd7d8b12ac65e80",
   "lastOpenFiles": [
-    "testFile.md",
-    "git/common.md"
+    "PHP/Tricks.md",
+    "PHP/Tips.md",
+    "Python/Tips.md",
+    "Python/Tricks.md",
+    "Protocols/HTTP.md",
+    "git/common.md",
+    "Meta/Pattern index.md",
+    "Meta/SOLID.md",
+    "Meta/OOP.md",
+    "Meta/rules.md"
   ]
 }

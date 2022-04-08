@@ -1,5 +1,5 @@
 ###### standard scenario
-```bash
+```Shell
 git init
 git add .
 git commit -m 'message'
