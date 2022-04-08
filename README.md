@@ -1,0 +1,1 @@
+taking notes on everything

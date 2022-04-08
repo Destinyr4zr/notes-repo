@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "7965f801a4ba1dda",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fd7d8b12ac65e80",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddd3062cdf1f2948",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e50440bce012bc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94623cae8972c9d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6e1ae5d6b0ada94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a86abe649ffc8f2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "328cd97421424a16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fbb5132ae3cab70",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3fd7d8b12ac65e80",
+  "lastOpenFiles": [
+    "testFile.md"
+  ]
+}
